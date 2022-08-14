@@ -1,4 +1,4 @@
-# LaravelAutoDeployCPanel-
+# Laravel CPanel Auto Deploy
 Auto deploy yml for auto deploying Laravel on CPanel
 
 ```yaml
